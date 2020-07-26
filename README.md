@@ -12,8 +12,7 @@ Here's the difference between old and new Noto Sans Thai font style:
 You can download in the repository's <a href="https://github.com/BSthun/Magisk-NotoSansThai/releases">Release Page</a>
 
 ## Screenshots ##
-<img src="img/screenshot1.png?raw=true" width="200">
-<img src="img/screenshot2.png?raw=true" width="200">
+<img src="img/screenshot1.png?raw=true" width="200"> <img src="img/screenshot2.png?raw=true" width="200">
 
 ## Testing Devices ##
 * Mi A2 (jasmine_sprout) / Android 10, Lineage 17.1
