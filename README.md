@@ -9,11 +9,11 @@ Here's the difference between old and new Noto Sans Thai font style:
 | ![Pre-installed Noto Sans](img/preview1.png?raw=true) | ![Updated Noto Sans](img/preview2.png?raw=true) |
 
 ## Download ##
-You can download in the repository's <a href="https://github.com/BSthun/Magisk-NotoSansThai/releases">Release Page</a>
+You can download in the repository's <a href="https://github.com/BSthun/Magisk-NotoSansThai/releases">Release Page</a>.
+For installation, go to Magisk app's Modules page, press `+` button then select the downloaded zip file, wait for installation progress and enjoy your new system font!
 
 ## Screenshots ##
-<img src="img/screenshot1.png?raw=true" width="200">
-<img src="img/screenshot2.png?raw=true" width="200">
+<img src="img/screenshot1.png?raw=true" width="200"> <img src="img/screenshot2.png?raw=true" width="200">
 
 ## Testing Devices ##
 * Mi A2 (jasmine_sprout) / Android 10, Lineage 17.1
@@ -26,8 +26,9 @@ You can download in the repository's <a href="https://github.com/BSthun/Magisk-N
 * PromptPay / TrueMoney Wallet <a href="#">0831581878</a>
 
 ## Credits ##
-* @Looki75 Who contributed Looki75/looki75productsansfont which I use as template for this module
+* @Looki75 Who contributed <a href="https://github.com/Looki75/looki75productsansfont">Looki75/looki75productsansfont</a> which I use as template for this module
 * Google's [Noto Sans](https://www.google.com/get/noto/) Font
 
 ## Changelog ##
 * v1: Initial Release
+* v2: Fix font weight 
